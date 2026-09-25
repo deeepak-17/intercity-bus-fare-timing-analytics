@@ -245,7 +245,7 @@ Only sources that support **(A)** dynamic pricing, **(B)** market scale, **(C)**
 .
 ├── README.md                       ← this file
 ├── analysis.ipynb                  ← preprocessing, EDA, models, evaluation, outputs
-├── Case_Study_Report.pdf           ← final report (course Section A format, 9 pages)
+├── Case_Study_Report.pdf           ← final report (6 pages)
 ├── Case_Study_Report.docx          ← editable source of the report
 ├── data/
 │   ├── raw/bus_fares_raw_2026-09-25.csv    ← 32,372 listings as scraped
