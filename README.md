@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Deepak Senthilkumar</b> · CB.SC.U4CSE23267 · CSE-C · Business Analytics individual case study
+  <b>Deepak S</b> · CB.SC.U4CSE23267 · CSE-C · Business Analytics individual case study
 </p>
 
 ---
